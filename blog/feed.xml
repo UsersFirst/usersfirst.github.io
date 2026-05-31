@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Users First Blog</title>
+    <link>https://www.usersfirst.com/blog/</link>
+    <atom:link href="https://www.usersfirst.com/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Notes on building AI &amp; games — from Columbus, Ohio.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 May 2026 13:08:35 GMT</lastBuildDate>
+    <item>
+      <title>Welcome to the Users First Journal</title>
+      <link>https://www.usersfirst.com/blog/welcome-to-the-users-first-journal/</link>
+      <guid isPermaLink="true">https://www.usersfirst.com/blog/welcome-to-the-users-first-journal/</guid>
+      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+      <description>A new home for notes on the AI tools and games we&#39;re building — and the people we build them for.</description>
+    </item>
+  </channel>
+</rss>

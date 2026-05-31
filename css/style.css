@@ -112,9 +112,9 @@ section {
 /* ===== Pillars ===== */
 .pillars-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 1.5rem;
-  max-width: 780px;
+  max-width: 920px;
   margin: 0 auto;
 }
 
@@ -282,6 +282,7 @@ a.pillar-card:hover {
   .pillars-grid {
     grid-template-columns: 1fr;
     gap: 1rem;
+    max-width: 480px;
   }
 
   .hero {
